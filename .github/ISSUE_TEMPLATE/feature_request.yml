@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a practical Warehouse WMS improvement
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Warehouse problem
+      description: What workflow should this feature improve?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
