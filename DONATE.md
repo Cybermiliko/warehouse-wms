@@ -1,5 +1,7 @@
 # Donate
 
+https://tr.ee/dcYF98z0IR
+
 Warehouse WMS is independently developed and maintained.
 
 A verified donation link will be published here after an official payment channel is configured. Until then, you can support development by:
@@ -10,3 +12,5 @@ A verified donation link will be published here after an official payment channe
 - Suggesting improvements based on real workflows
 
 Thank you for supporting the project.
+
+
